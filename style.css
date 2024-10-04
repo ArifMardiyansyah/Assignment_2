@@ -8,14 +8,14 @@ body {
 
 .wrapper {
     border: 2px solid #ffffff;
-    border-radius: 10px;
+    border-radius: 15px;
     max-width: 800px;
-    margin: 20px auto;
+    margin: 120px auto;
     padding: 20px;
     background-color: rgba(255, 255, 255, 0.1);
 }
 
-.hbd-contain {
+.hbd-card {
     text-align: center;
 }
 
@@ -23,7 +23,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 20px;
 }
 
 .gambar {
